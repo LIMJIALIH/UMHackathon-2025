@@ -2,7 +2,7 @@
 
 Domain 2 - Quantitative Trading 
 
-Team Member:
+Team Member of Hacktelligence:
 1. LIM JIA LIH ( Leader )
 2. CHUA YU JIEN
 3. ONG YI HAO

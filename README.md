@@ -14,6 +14,7 @@ Link to our live pitching slide --> https://www.canva.com/design/DAGkbAjl8g0/Iis
 A machine learning model use Random Forest Regressor with Time-Based Cross Validation to predict the market price of BitCoin with data source from python library yFinance and cryptoQuant API key.
 
 Final Result
+
 Sharpe Ratio: 2.1894
 Maximum Drawdown (MDD): -36.20%
 Trade Frequency: 8.09% of data rows
